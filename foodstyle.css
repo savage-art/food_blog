@@ -1,0 +1,304 @@
+.food-image{
+    background-image: url("/food/988136.jpg");
+    height: 100%;
+    margin-top: px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.foodcolour{
+    margin-top: 13%;
+    margin-left: 37%;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+}
+.foodcolour span{
+    color: blue;
+}
+
+.FoodBlog{
+    width: 100%;
+    float: left;
+    height: 400px;
+
+}
+.tutori{
+    padding: 37px;
+    color: #fff;
+    font-size: xx-large;
+    text-align: center;
+}
+.tutor{
+    text-align: center;
+    color: #fff;
+    font-size: xx-large;
+    padding: 40px;
+}
+.tuto{
+    text-align: center;
+    color: #fff;
+    font-size: xx-large;
+    padding: 40px;
+}
+.recip{
+    justify-content: center;
+    align-content: center;
+    margin-left: 40%;
+    font-size: xx-large;
+}
+
+.foodrom{
+    justify-content: center;
+    align-content: center;
+    margin-left: 35%;
+    font-size: xx-large;
+}
+
+
+.foodda{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+.Food1-image{
+    background-image: url("/food/dish.jpg");
+    background-repeat: no-repeat ;
+    height: 400px;
+    width: 30%;
+    background-size: contain;
+    float: left;
+    margin-right: 50px;
+}   
+
+    
+
+ .Food2-image{
+    background-image: url("/food/foodd.jpg");
+    background-repeat: no-repeat ;
+    height: 268px;
+    width: 30.90%;
+    background-size: cover;
+    float: left;
+    margin-right: 50px;
+}
+.Food3-image{
+    background-image: url("/food/sushi.jpeg");
+    background-repeat: no-repeat ;
+    height: 270px;
+    width: 31%;
+    background-size: cover;
+    float: left;
+    margin-left: 8px;
+} 
+
+.flexonda{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+
+.bean{
+    background-image: url("/food/beansvip.jpg");
+    background-repeat: no-repeat ;
+    height: 466px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+    
+.been{
+   font-size: 12px;
+   margin-right: 50px;
+   column-count: 2;
+   columns: 2;
+}
+
+.riceonit{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+
+.ricepic{ 
+    background-image: url("/food/jellofrice.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+.ricerules{
+    font-size: 12px;
+    column-count: 2;
+    columns: 2 10px;   
+}
+
+.pizzer{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+.pizzerpic{
+    background-image: url("/food/pizzahd.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+.pizzerules{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 40px; 
+}
+.cake{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+.cakei{
+    background-image: url("/food/cakehd.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+    
+}
+.cakeiiwa{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 300px;
+    
+}
+.bread{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+.breadi{
+    background-image: url("/food/breadvip.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+.breadika{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.ramen{
+    width: 100%;
+    float: left;
+    height: 500px;
+}
+
+.ramenda{
+    background-image: url("/food/ramen.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+
+.remenka{
+    font-size: 12px;
+    margin-left: 100px;
+    column-count: 2;
+    margin-right: 100px;
+    columns: 2 10px;
+}
+
+.eguci{
+    width: 100%;
+    float: left;
+    height: 460px;
+}
+.egucitar{
+    background-image: url("/food/egusisoup.webp");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+.egucisolos{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.friedrice{
+    width: 100%;
+    float: left;
+    height: 300px;
+}
+.friedriceda{
+    background-image: url("/food/fridricevip.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+.friedriceka{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 100px;
+    column-count: 2;
+    columns: 2;
+}
+.hamburger{
+    width: 100%;
+    float: left;
+    height: 333px;
+}
+.hamburgerka{
+    background-image: url("/food/hamburgevip.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+.hamburgerda{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 100px;
+    column-count: 2;
+    columns: 2;
+}
+.stew{
+    width: 100%;
+    float: left;
+    height: 460px;
+}
+.stewda{
+    background-image: url("/food/stwevip.jpg");
+    background-repeat: no-repeat ;
+    height: 460px;
+    width: 33%;
+    background-size: contain;
+    float: left;
+    margin-right: 55px;
+}
+.stweka{
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 100px;
+    column-count: 3;
+    columns: 3;
+    
+}
